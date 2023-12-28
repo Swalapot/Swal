@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "2": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "3": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "4": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "5": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "6": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "7": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "8": {
+      "item": "swal:pelode_daviliyo"
+    }
+  },
+  "result": {
+    "item": "swal:armadurafurry_chestplate",
+    "count": 1
+  }
+}

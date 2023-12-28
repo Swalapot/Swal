@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "212",
+    "345",
+    "272"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:coal"
+    },
+    "3": {
+      "item": "minecraft:coal"
+    },
+    "4": {
+      "item": "minecraft:quartz"
+    },
+    "5": {
+      "item": "minecraft:coal"
+    },
+    "7": {
+      "item": "minecraft:coal"
+    },
+    "2": {
+      "item": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "swal:daviliyo_spawn_egg",
+    "count": 4
+  }
+}

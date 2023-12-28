@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "swal:blocks/bloquedepelodedaviliyo",
+    "up": "swal:blocks/bloquedepelodedaviliyo",
+    "north": "swal:blocks/bloquedepelodedaviliyo",
+    "east": "swal:blocks/bloquedepelodedaviliyo",
+    "south": "swal:blocks/bloquedepelodedaviliyo",
+    "west": "swal:blocks/bloquedepelodedaviliyo",
+    "particle": "swal:blocks/bloquedepelodedaviliyo"
+  }
+}

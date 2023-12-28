@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "2": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "3": {
+      "item": "swal:pelode_daviliyo"
+    },
+    "5": {
+      "item": "swal:pelode_daviliyo"
+    }
+  },
+  "result": {
+    "item": "swal:armadurafurry_boots",
+    "count": 1
+  }
+}
